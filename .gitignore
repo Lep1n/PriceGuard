@@ -1,0 +1,7 @@
+output.xlsx
+input.xlsx
+logs/
+screenshots/
+__pycache__/
+.venv/
+config/saved_urls.json

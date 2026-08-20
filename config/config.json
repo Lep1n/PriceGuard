@@ -1,0 +1,12 @@
+{
+    "app_version": "v1.0.0",
+    "currency": "USD",
+    "headless": false,
+    "browser_timeout_ms": 15000,
+    "output_file": "output.xlsx",
+    "test_urls": [
+        "https://www.bhphotovideo.com/c/product/1759080-REG/apple_mph23ll_a_14_macbook_pro_with.html",
+        "https://www.bestbuy.com/site/apple-macbook-pro-14-laptop-m3-chip-8gb-memory-10-core-gpu-512gb-ssd-space-gray/6534640.p",
+        "https://www.bestbuy.com/site/non-existent-test-item-404-breakage-999999.p"
+    ]
+}
