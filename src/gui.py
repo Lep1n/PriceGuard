@@ -8,7 +8,7 @@ from tkinter import filedialog, messagebox
 from src.utils import load_config, open_file_or_folder, open_screenshots_folder
 from src.scraper import run_price_guard_audit
 
-# Scrap Mechanic Industrial Dark/Orange Palette
+# SM Industrial Dark/Orange Palette
 ctk.set_appearance_mode("Dark")
 ctk.set_default_color_theme("dark-blue")
 
